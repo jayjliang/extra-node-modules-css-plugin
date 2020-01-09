@@ -1,4 +1,4 @@
-# extra-node-odules-css-plugin
+# extra-node-modules-css-plugin
 
 ## 介绍
 
@@ -10,14 +10,14 @@
 ## 安装
 
 ```
-npm install --save-dev extra-node-odules-css-plugin
+npm install --save-dev extra-node-modules-css-plugin
 ```
 
 ## 使用
 
 ### Options
 
-You can pass a hash of configuration options to `extra-node-odules-css-plugin`.
+You can pass a hash of configuration options to `extra-node-modules-css-plugin`.
 Allowed values are as follows
 
 |Name|Type|Default|Description|

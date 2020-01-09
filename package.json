@@ -1,5 +1,5 @@
 {
-	"name": "extra-node-odules-css-plugin",
+	"name": "extra-node-modules-css-plugin",
 	"version": "0.1.0",
 	"description": "a tool for extra css which inject by style-loader",
 	"main": "src/index.js",
@@ -9,7 +9,7 @@
 	"scripts": {},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jayjliang/extra-node-odules-css-plugin.git"
+		"url": "https://github.com/jayjliang/extra-node-modules-css-plugin.git"
 	},
 	"author": "jayjliang",
 	"license": "MIT",
@@ -24,6 +24,6 @@
 		"webpack",
 		"plugin",
 		"extra css",
-		"extra-node-odules-css-plugin"
+		"extra-node-modules-css-plugin"
 	]
 }
