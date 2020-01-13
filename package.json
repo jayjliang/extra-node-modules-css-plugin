@@ -1,6 +1,6 @@
 {
 	"name": "extra-node-modules-css-plugin",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "a tool for extra css which inject by style-loader",
 	"main": "src/index.js",
 	"files": [
